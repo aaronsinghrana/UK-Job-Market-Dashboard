@@ -53,3 +53,11 @@ Kaggle – UK Government Job Listings Dataset
 ## 🎯 Project Outcome
 
 This project strengthened my skills in data cleaning, analysis and data visualisation, reflecting real-world data analyst tasks.
+
+---
+
+## 🔮 Future Improvements
+
+* Add more interactivity and filters
+* Analyse trends over time
+* Explore salary ranges in more detail
